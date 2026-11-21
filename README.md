@@ -12,3 +12,5 @@ Features
 Built With
 
 - Python
+- 
+Two approaches: Traditional Loop and List Comprehension.
